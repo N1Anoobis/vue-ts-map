@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "content": "piwo w bangkoku",
+      "id": 22,
+      "coord": {
+        "lat": -0.8660818748357595,
+        "lng": 101.37970482510212
+      },
+      "savedStyle": "italic"
+    },
+    {
+      "id": 27,
+      "content": "rio party",
+      "coord": {
+        "lat": -22.79692450780153,
+        "lng": -43.161641830190305
+      }
+    },
+    {
+      "id": 35,
+      "content": "afryka",
+      "coord": {
+        "lat": 17.5852929111625,
+        "lng": -2.693301109205906
+      }
+    },
+    {
+      "id": 28,
+      "content": "gfhhgf"
+    }
+  ]
+}
